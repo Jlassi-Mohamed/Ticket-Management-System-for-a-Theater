@@ -1,7 +1,7 @@
 # Ticket Management System for a Theater 🎭
 
 ## Project Overview
-This project is a **multithreaded Java application** designed to manage ticket reservations and cancellations for a theater. The system ensures synchronization for concurrent access, preventing conflicts during booking or cancellation operations. It also features an intuitive **JavaFX graphical user interface** for users to interact with.
+This project is a **multithreaded Java application** designed to manage ticket reservations and cancellations for a theater. The system ensures synchronization for concurrent access, preventing conflicts during booking or cancellation operations. It also features an intuitive **Java Swing graphical user interface** for users to interact with.
 
 ---
 
@@ -24,7 +24,7 @@ This project is a **multithreaded Java application** designed to manage ticket r
 
 ## Technology Stack
 - **Java**: Core programming language.
-- **JavaFX**: For building the graphical user interface.
+- **Java Swing**: For building the graphical user interface.
 - **Threading and Synchronization**:
   - **Semaphores**: To manage ticket availability.
   - **Monitors**: To ensure safe concurrent access.
@@ -46,7 +46,7 @@ This project is a **multithreaded Java application** designed to manage ticket r
 
 ### Prerequisites
 - **Java Development Kit (JDK)**: Version 8 or later.
-- **JavaFX Library**: Ensure it's set up in your environment.
+
 
 ### Installation
 1. Clone the repository:
